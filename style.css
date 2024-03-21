@@ -1,0 +1,19 @@
+img{
+    width: 50px;
+    text-align: center;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35%;
+}
+td{
+    padding: 25px;
+    transition: .5s ease;
+    width: 50px;
+    text-align: center;
+}
+td:hover{
+    transform: scale(1.5);
+}
